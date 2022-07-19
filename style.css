@@ -1,0 +1,32 @@
+h1 {
+background-color: rgb(104, 234, 223);
+margin-top: 0px;
+margin-bottom: 4px;
+text-align: center;
+color: rgb(187, 154, 112);
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+button {
+    background-color: rgb(104, 234, 223);
+    font-size: 15px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 10px;
+    margin-inline:  20px;
+    margin-left: 125px;
+}
+
+.waffle {
+    font-size: 20px;
+    background-color: beige;
+}
+
+.lemon {
+    font-size: 20px;
+    background-color: beige;
+}
+img {
+    height: 600px;
+    width: auto;
+    margin-left: 175px;
+}
+

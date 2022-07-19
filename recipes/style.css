@@ -1,0 +1,32 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(10, 55, 140);
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+    font-family: "Courier New", "Monaco", sans-serif
+}
+h3 {
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img {
+    height: 600px;
+    width: auto;
+}
+
+.lemon {
+    color: rgb(0, 255, 94)
+}
+.list {
+    font-size: 20px;
+    font-family: "Courier New", "Monaco", sans-serif
+}
